@@ -1,8 +1,3 @@
-
-"scripts": {
-  "start": "node bot.js"
-}
-
 {
   "name": "whatsapps-botss",
   "version": "1.0.0",
